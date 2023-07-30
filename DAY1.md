@@ -20,3 +20,5 @@ ZeroCho 강의 들으면서 따라가는 중
 - blind class : 시각장애인을 위한 요소, display=none이면 스크린 리더에 읽히지 않기 때문에 X
 - box-sizing: border-box; : 기본값은 content-box인데 바꾸면 padding까지를 크기로 포함
 - form+input : form 안에서 input을 넣으면 enter를 치면 자동으로 검색하게 됨
+- class : 여러번 사용하기 위해서
+- inline-flex : px로 지정해줄것
