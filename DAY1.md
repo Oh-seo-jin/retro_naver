@@ -17,3 +17,6 @@ ZeroCho 강의 들으면서 따라가는 중
 - 가상태그 : 모든 태그에 디자인적인 요소를 위해 존재하지 않는 ::before, ::after을 추가 가능
   - ::before : content 필요, 자식과 동일
 - z-index : 요소(레이어) 뒤로 내리거나 앞으로 가져오기, 서로 형제일 때만 적용
+- blind class : 시각장애인을 위한 요소, display=none이면 스크린 리더에 읽히지 않기 때문에 X
+- box-sizing: border-box; : 기본값은 content-box인데 바꾸면 padding까지를 크기로 포함
+- form+input : form 안에서 input을 넣으면 enter를 치면 자동으로 검색하게 됨
