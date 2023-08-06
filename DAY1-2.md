@@ -23,6 +23,6 @@ ZeroCho 강의 들으면서 따라가는 중
 - class : 여러번 사용하기 위해서
 - inline-flex : px로 지정해줄것
 
-##가상요소 (::before, ::after)
+## 가상요소 (::before, ::after)
 - 일반 HTML 태그 요소처럼 배치 속성을 사용해 자유롭게 배치
 - 가상 요소의 생성 위치는 ::before 가상요소 -> 요소의 콘텐츠 -> ::after 가상요소
